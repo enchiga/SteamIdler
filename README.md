@@ -8,5 +8,6 @@ How to use SteamIdler to effortlessly farm playtime on your favorite Steam games
 5. Click play on the game in your Steam library interface
 
 SteamIdler will not work for games that require a 3rd party launcher.
+SteamIdler is functional only on Windows OS (Known versions, Windows 10, Windows 10 S, and Windows 11)
 
 Thanks for using SteamIdler
